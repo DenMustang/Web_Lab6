@@ -1,2 +1,1 @@
-# Web_Lab6
-Web Laboratory Lab 6
+# Web_lab6
